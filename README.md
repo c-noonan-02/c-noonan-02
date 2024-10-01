@@ -1,8 +1,6 @@
-## University of Edinburgh Post-grad Student 🎓
+## Post-Graduate Student at the University of Edinburgh 🎓
 
-## Studying a MSC in Ecology, Evolution and Biodiversity 🌿
-
-## Pronouns: she/her ✨
+## Currently Studying a MSC in Ecology, Evolution and Biodiversity 🌿
 
 <!--
 **c-noonan-02/c-noonan-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
